@@ -1,0 +1,7 @@
+C:\Users\hamilton.santana\source\repos\ConversorBinario\ConversorBinario\bin\Debug\ConversorBinario.exe.config
+C:\Users\hamilton.santana\source\repos\ConversorBinario\ConversorBinario\bin\Debug\ConversorBinario.exe
+C:\Users\hamilton.santana\source\repos\ConversorBinario\ConversorBinario\bin\Debug\ConversorBinario.pdb
+C:\Users\hamilton.santana\source\repos\ConversorBinario\ConversorBinario\obj\Debug\ConversorBinario.csprojAssemblyReference.cache
+C:\Users\hamilton.santana\source\repos\ConversorBinario\ConversorBinario\obj\Debug\ConversorBinario.csproj.CoreCompileInputs.cache
+C:\Users\hamilton.santana\source\repos\ConversorBinario\ConversorBinario\obj\Debug\ConversorBinario.exe
+C:\Users\hamilton.santana\source\repos\ConversorBinario\ConversorBinario\obj\Debug\ConversorBinario.pdb
